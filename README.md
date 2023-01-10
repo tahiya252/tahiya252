@@ -1,4 +1,6 @@
 # Hi there 👋
+<h1 align="center"> I'm Tahiya Anjum Tasnim</h1>
+- 🌱 I’m currently learning **c++**
 
 
 **tahiya252/tahiya252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">Hi 👋, I'm Tahiya Anjum Tasnim</h1>
-- 🌱 I’m currently learning **c++**
+
 
 - 📫 How to reach me **tahiyatasnim27@gmail.com**
 
